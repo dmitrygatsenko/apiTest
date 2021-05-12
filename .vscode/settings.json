@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "g:\\Json2Flat-master\\Json2Flat-master.jar"
+    ]
+}
